@@ -28,3 +28,6 @@
 #### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
 To be determined
+
+Work done 7/19/19:
+Have not felt comfortable with React so far, spent the day working on a tutorial. [https://scrimba.com/g/glearnreact](https://scrimba.com/g/glearnreact)
