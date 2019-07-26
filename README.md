@@ -29,5 +29,22 @@
 
 To be determined
 
+<hr>
+## User Stories
+
+* As a user, I want to be able to add clothing items to a database
+* As a user, I want to be able to add categories to each clothing item
+* As a user, I want to be able to search for items by category
+* As a user, I want to be able to come back and edit clothing items after I have added them
+<hr>
+#### User Stories -- stretch goals
+
+* As a user, I want to be able to search for clothing items by multiple categories
+* As a user, I want to be able to keep track of what I have worn
+* As a user, I want to be able to store outfits for the future
+* As a user, I want the app to tell me when I have not worn an item of clothing in a specified time period
+* As a user, I want to have the accountability to get rid of one item of clothing for every item that I add
+* As a user, I want to be able to upload and store pictures of each item
+
 Work done 7/19/19:
 Have not felt comfortable with React so far, spent the day working on a tutorial. [https://scrimba.com/g/glearnreact](https://scrimba.com/g/glearnreact)
