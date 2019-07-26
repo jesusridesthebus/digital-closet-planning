@@ -42,6 +42,7 @@ To be determined
 
 #### User Stories -- stretch goals
 
+* As a user, I want to be able to login so I can access my closet and feel secure about its contents being saved
 * As a user, I want to be able to search for clothing items by multiple categories
 * As a user, I want to be able to keep track of what I have worn
 * As a user, I want to be able to store outfits for the future
@@ -53,12 +54,17 @@ To be determined
 
 ![User Interface](./digital-closet-mock.jpg)
 
-Work done 7/19/19:
-Have not felt comfortable with React so far, spent the day working on a tutorial. [https://scrimba.com/g/glearnreact](https://scrimba.com/g/glearnreact)
+<hr>
+
+Work done 7/19/19: <br>
+Have not felt comfortable with React so far, spent the day working on a tutorial[https://scrimba.com/g/glearnreact](https://scrimba.com/g/glearnreact)
 
 <hr>
 
-Work done 7/26/19:
-8-9:30 Research on user stories and mockups
-9:30-9:45 Write user stories
-9:45-12:20 Make mockups
+Work done 7/26/19: <br>
+8-9:30 Research on user stories and mockups <br>
+9:30-9:45 Write user stories <br>
+9:45-12:20 Make mockups <br>
+12:20-1:20 lunch <br>
+1:20-2:20 look up stuff about state, add mockup to readme <br>
+2:30-4:45 component research, build component tree, more research on state
